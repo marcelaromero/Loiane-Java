@@ -1,5 +1,4 @@
-package leituradadosteclado;
-
+import java.util.Locale;
 import java.util.Scanner;
 
 public class LeituraDadosTeclado {
@@ -7,6 +6,10 @@ public class LeituraDadosTeclado {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
+        //scan.useLocale(Locale.US);
+
+        //Scanner ler = new Scanner(System.in);
+        //ler.useLocale(Locale.US);
 
 		/*System.out.println("Digite seu nome completo:");
 		String nomeCompleto = scan.nextLine();
@@ -28,7 +31,7 @@ public class LeituraDadosTeclado {
         String primeiroNome = scan.next();
         int idade = scan.nextInt();
         byte qtdFilhos = scan.nextByte();
-        float altura = scan.nextFloat();
+        double altura = scan.nextDouble();
         boolean temPet = scan.nextBoolean();
 
         System.out.println("Você digitou os seguintes valores:");
