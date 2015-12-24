@@ -6,10 +6,7 @@ public class LeituraDadosTeclado {
     public static void main(String[] args) {
 
         Scanner scan = new Scanner(System.in);
-        //scan.useLocale(Locale.US);
-
-        //Scanner ler = new Scanner(System.in);
-        //ler.useLocale(Locale.US);
+        scan.useLocale(Locale.US);
 
 		/*System.out.println("Digite seu nome completo:");
 		String nomeCompleto = scan.nextLine();
