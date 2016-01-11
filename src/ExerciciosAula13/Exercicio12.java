@@ -1,5 +1,5 @@
 package ExerciciosAula13;
-//Tendo como dados de entrada a altura de uma pessoa, construa um
+//        Tendo como dados de entrada a altura de uma pessoa, construa um
 //        algoritmo que calcule seu peso ideal, usando a seguinte fórmula:
 //        (72.7*altura) - 58
 
@@ -14,7 +14,7 @@ public class Exercicio12 {
         System.out.println("Qual sua altura: ");
         double altura = entrada.nextDouble();
 
-        double pesoIdeal = (72.7*altura) - 58;
+        double pesoIdeal = (72.7 * altura) - 58;
         System.out.println("Seu peso ideal é: " + pesoIdeal);
     }
 }

@@ -13,12 +13,12 @@ public class Exercicio8 {
         scan.useLocale(Locale.US);
 
         System.out.println("Qto vc ganha por hora? ");
-        double vhora = scan.nextDouble();
+        double valorHora = scan.nextDouble();
 
-        System.out.println("Qtas horas vc trbalhou esse mes:" );
+        System.out.println("Qtas horas vc trabalhou esse mes:" );
         double mes = scan.nextDouble();
 
-        double resultado = vhora * mes;
+        double resultado = valorHora * mes;
         System.out.println("Valor a receber nesse mês é de: " + resultado);
 
 

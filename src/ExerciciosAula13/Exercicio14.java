@@ -14,15 +14,13 @@ public class Exercicio14 {
         entrada.useLocale(Locale.US);
 
         System.out.println("Tamanho do arquivo: ");
-        double arquivo = entrada.nextDouble();
+        double tamArquivo = entrada.nextDouble();
 
         System.out.println("Velocidade link para download: ");
         double veloc = entrada.nextDouble();
 
-        double tempo = arquivo / veloc;
-        double tempo_minuto = tempo / 60;
-
-        System.out.println("Velocidade final download em minutos: " + tempo_minuto + " minutos");
+        double tempo = tamArquivo / veloc;
+        System.out.println("Velocidade final download em minutos: " + tempo + " minutos");
 
     }
 }

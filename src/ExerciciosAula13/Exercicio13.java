@@ -30,17 +30,17 @@ public class Exercicio13 {
         System.out.println("Numero de horas trabalhadas no mês: ");
         double mes = entrada.nextDouble();
 
-        double salario  = vhora * mes;
-        double IR = salario * 0.11;
-        double INSS = salario * 0.08;
-        double Sind = salario * 0.05;
+        double salBruto  = vhora * mes;
+        double IR = salBruto * 0.11;
+        double inss = salBruto * 0.08;
+        double sind = salBruto * 0.05;
+        double descontos = IR + inss + sind;
+        double salLiquido = salBruto - descontos;
 
-        double descontos = IR + INSS + Sind;
-
-        double salBruto = salario - descontos;
-        System.out.println("INSS: " + INSS);
-        System.out.println("Sindicado: " + Sind);
+        System.out.println("Salario Bruto: " + salBruto);
+        System.out.println("INSS: " + inss);
+        System.out.println("Sindicado: " + sind);
         System.out.println("Total Descontos: " + descontos);
-        System.out.println("Salario Liquido: " + salBruto);
+        System.out.println("Salario Liquido: " + salLiquido);
     }
 }
