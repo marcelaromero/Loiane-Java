@@ -7,13 +7,20 @@ import java.util.Scanner;
  */
 public class Ex7 {
     public static void main(String[] args){
-        int i;
+        Scanner entrada = new Scanner(System.in);
+        int i, num;
+        int maior = Integer.MIN_VALUE; // menor numero possivel de existir
 
         for (i = 1; i <=5 ; i++ ){
-            Scanner entrada = new Scanner(System.in);
             System.out.println("Digite um numero: ");
-            int num = entrada.nextInt();
+            num = entrada.nextInt();
+
+            if (num > maior){
+                maior = num;
+            }
         }
+        System.out.println("Maior numero é: " +maior);
+
     }
 
 }

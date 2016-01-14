@@ -7,19 +7,20 @@ import java.util.Scanner;
 
 public class Ex8 {
     public static void main(String[] args){
+        Scanner scan = new Scanner(System.in);
+
         int i, num, soma = 0 ;
         double media;
 
-
         for (i = 1; i <= 5; i++){
-            Scanner scan = new Scanner(System.in);
             System.out.println("Numero: ");
             num = scan.nextInt();
 
-            soma = soma + num;
-
+            soma += num;
         }
+
         media = soma / 5;
+
         System.out.println("Soma dos numeros digitados é: " + soma);
         System.out.println("Média dos números digitados é: " + media);
     }

@@ -15,10 +15,7 @@ public class Ex10 {
         num2 = entrada.nextInt();
 
         for(i = num1; i <= num2; i++){
-            if(i % 1 == 0){
-                System.out.println("Numero inteiro: " + i);
-            }
-
+            System.out.println("Numero inteiro: " + i);
         }
 
     }

@@ -8,11 +8,9 @@ public class Ex6 {
     public static void main(String[] args){
         int i;
         for(i=0; i<=20; i++){
-            System.out.println(i);
+            //System.out.println(i);
+            System.out.print(i + " ");
         }
 
-        for(i = 0;i <= 20; i++){
-            System.out.print(i);
-        }
     }
 }
