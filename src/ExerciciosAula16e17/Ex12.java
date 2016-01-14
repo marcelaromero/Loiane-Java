@@ -10,8 +10,20 @@ package ExerciciosAula16e17;
 //        o ...
 //        o 5 X 10 = 50
 
+import java.util.Scanner;
+
 public class Ex12 {
     public static void main(String[] args){
+        int num, i, tabuada;
 
+        Scanner entrada  = new Scanner(System.in);
+        System.out.println("Digite um numero para saber sua tabuada:");
+        num = entrada.nextInt();
+
+        for (i = 1; i <= 10; i++){
+            tabuada = num * i;
+            System.out.println(num + " x " + i +" : "+ tabuada);
+
+        }
     }
 }

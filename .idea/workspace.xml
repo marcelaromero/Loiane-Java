@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11797f1-e531-4949-86fa-d4a3c00ada5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex10.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex11.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex12.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex9.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex8.java" afterPath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex8.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex12.java" afterPath="$PROJECT_DIR$/src/ExerciciosAula16e17/Ex12.java" />
     </list>
     <ignored path="Loiane-Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -93,8 +89,8 @@
       <file leaf-file-name="Ex12.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ExerciciosAula16e17/Ex12.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.45498782">
-              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.7104623">
+              <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
               <folding />
             </state>
           </provider>
@@ -247,27 +243,7 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
-  <component name="RunManager" selected="Application.Ex11">
-    <configuration default="false" name="Ex7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ExerciciosAula16e17.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ExerciciosAula16e17.Ex7" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="Loiane" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.Ex12">
     <configuration default="false" name="Ex8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -336,6 +312,26 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="ExerciciosAula16e17.Ex11" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="Loiane" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Ex12" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ExerciciosAula16e17.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="ExerciciosAula16e17.Ex12" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -780,19 +776,19 @@
     </configuration>
     <list size="6">
       <item index="0" class="java.lang.String" itemvalue="Application.Exercicio14" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Ex7" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Ex8" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Ex9" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Ex10" />
-      <item index="5" class="java.lang.String" itemvalue="Application.Ex11" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Ex8" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Ex9" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Ex10" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Ex11" />
+      <item index="5" class="java.lang.String" itemvalue="Application.Ex12" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Ex11" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Ex10" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Ex9" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Ex8" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Ex7" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Ex12" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Ex11" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Ex10" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Ex9" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Ex8" />
       </list>
     </recent_temporary>
   </component>
@@ -819,7 +815,7 @@
       <workItem from="1452534381468" duration="7389000" />
       <workItem from="1452596927636" duration="681000" />
       <workItem from="1452702079634" duration="7664000" />
-      <workItem from="1452726497139" duration="3670000" />
+      <workItem from="1452726497139" duration="4767000" />
     </task>
     <task id="LOCAL-00001" summary="teste commit&#10;">
       <created>1450819359243</created>
@@ -899,11 +895,17 @@
       <option name="project" value="LOCAL" />
       <updated>1452729744010</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Exercícios&#10;">
+      <created>1452731417562</created>
+      <option name="number" value="00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1452731417562</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38914000" />
+    <option name="totallyTimeSpent" value="40011000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -1224,8 +1226,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ExerciciosAula16e17/Ex12.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.45498782">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.7104623">
+          <caret line="19" column="68" selection-start-line="19" selection-start-column="68" selection-end-line="19" selection-end-column="68" />
           <folding />
         </state>
       </provider>
