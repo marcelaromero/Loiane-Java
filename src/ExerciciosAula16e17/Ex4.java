@@ -9,6 +9,14 @@ package ExerciciosAula16e17;
 
 public class Ex4 {
     public  static void main(String[] args){
+        int cont = 0 , popA = 80000, popB = 200000;
 
+        while (popA <= popB){
+            popA += popA * 0.03;
+            popB += popB * 0.015;
+            cont++;
+        }
+
+        System.out.println("Em " + cont + " anos a população A será maior que população B");
     }
 }
