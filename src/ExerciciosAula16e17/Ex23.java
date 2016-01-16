@@ -20,7 +20,6 @@ import java.util.Scanner;
 
 public class Ex23 {
     public static void main(String[] args) {
-        Scanner entrada = new Scanner(System.in);
         int i;
         double valorCompra, valorCd = 1.99;
 
