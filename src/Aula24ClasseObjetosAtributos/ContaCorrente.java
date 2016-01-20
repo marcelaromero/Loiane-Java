@@ -1,4 +1,4 @@
-package Aula24;
+package Aula24ClasseObjetosAtributos;
 
 /*
 5.	Cria uma classe para representar uma conta corrente que possui um número, um saldo,

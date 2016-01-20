@@ -1,4 +1,4 @@
-package Aula24;
+package Aula24ClasseObjetosAtributos;
 
 /*
 6.	Crie uma classe que represente um contato da agenda do seu celular.

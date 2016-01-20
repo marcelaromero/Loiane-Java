@@ -1,4 +1,4 @@
-package Aula24;
+package Aula24ClasseObjetosAtributos;
 
 /**
  * Created by Marcela on 20/01/2016.

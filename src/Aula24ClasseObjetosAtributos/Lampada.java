@@ -1,4 +1,4 @@
-package Aula24;
+package Aula24ClasseObjetosAtributos;
 
 /*
 Escreva uma  classe para representar uma lâmpada que está à venda em um supermercado.
