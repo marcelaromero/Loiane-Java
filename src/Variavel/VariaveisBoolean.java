@@ -1,4 +1,4 @@
-package com.loiane.cursojava.variavel;
+package Variavel;
 
 /**
  * Created by Marcela on 15/12/2015.
