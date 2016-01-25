@@ -4,7 +4,6 @@
     <list default="true" id="f11797f1-e531-4949-86fa-d4a3c00ada5d" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Aula20Matrizes/MatrizTridimensional.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java" afterPath="$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java" />
     </list>
     <ignored path="Loiane-Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -841,7 +840,7 @@
       <workItem from="1453496599582" duration="1858000" />
       <workItem from="1453501882375" duration="133000" />
       <workItem from="1453658355351" duration="644000" />
-      <workItem from="1453723384942" duration="11924000" />
+      <workItem from="1453723384942" duration="11961000" />
     </task>
     <task id="LOCAL-00001" summary="teste commit&#10;">
       <created>1450819359243</created>
@@ -1047,11 +1046,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453744366052</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Matriz">
+      <created>1453745924598</created>
+      <option name="number" value="00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1453745924598</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="122135000" />
+    <option name="totallyTimeSpent" value="122172000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="683" height="728" extended-state="0" />
