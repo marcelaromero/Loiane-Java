@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f11797f1-e531-4949-86fa-d4a3c00ada5d" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java" afterPath="$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java" />
     </list>
     <ignored path="Loiane-Java.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,8 +29,8 @@
       <file leaf-file-name="Matrizes.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.32922536">
-              <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+            <state vertical-scroll-proportion="0.23943663">
+              <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -830,7 +830,7 @@
       <workItem from="1453496599582" duration="1858000" />
       <workItem from="1453501882375" duration="133000" />
       <workItem from="1453658355351" duration="644000" />
-      <workItem from="1453723384942" duration="10002000" />
+      <workItem from="1453723384942" duration="10595000" />
     </task>
     <task id="LOCAL-00001" summary="teste commit&#10;">
       <created>1450819359243</created>
@@ -1024,11 +1024,17 @@
       <option name="project" value="LOCAL" />
       <updated>1453737694577</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Matriz">
+      <created>1453743773268</created>
+      <option name="number" value="00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1453743773268</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="120213000" />
+    <option name="totallyTimeSpent" value="120806000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="683" height="728" extended-state="0" />
@@ -1081,7 +1087,8 @@
     <MESSAGE value="variável&#10;" />
     <MESSAGE value="aula 27&#10;" />
     <MESSAGE value="aula 27 - exercícios&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="aula 27 - exercícios&#10;" />
+    <MESSAGE value="Matriz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Matriz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1461,8 +1468,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Aula20Matrizes/Matrizes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.32922536">
-          <caret line="17" column="30" selection-start-line="17" selection-start-column="30" selection-end-line="17" selection-end-column="30" />
+        <state vertical-scroll-proportion="0.23943663">
+          <caret line="44" column="0" selection-start-line="44" selection-start-column="0" selection-end-line="44" selection-end-column="0" />
           <folding />
         </state>
       </provider>
