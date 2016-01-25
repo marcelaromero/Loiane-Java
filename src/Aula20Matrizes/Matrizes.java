@@ -58,7 +58,7 @@ public class Matrizes {
 
         double[][] notasAlunos2 = {{7, 8, 9, 10}, {8, 6, 7, 10}};
 
-        System.out.println("Output da matriz notasAlunos2");
+        System.out.println("\nOutput da matriz notasAlunos2");
 
         for (int i=0; i<notasAlunos2.length; i++){
             for (int j=0; j<notasAlunos2[i].length; j++){
