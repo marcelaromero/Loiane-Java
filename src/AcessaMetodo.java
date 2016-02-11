@@ -1,5 +1,6 @@
 public class AcessaMetodo {
     public void imprime() {
+
         System.out.println("Imprimindo algo");
     }
 
