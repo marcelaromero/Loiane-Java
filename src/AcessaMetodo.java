@@ -7,5 +7,6 @@ public class AcessaMetodo {
     public static void main(String args[]) {
         AcessaMetodo acessando = new AcessaMetodo();
         acessando.imprime();
+        /// teste
     }
 }
