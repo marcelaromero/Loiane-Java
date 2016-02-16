@@ -13,7 +13,7 @@ public class Aluno {
     String nomeAluno;
     String matricula;
     String curso;
-    String [] nomeDisciplinas;
+    String [] nomeDisciplinas = new String[3];
     double [][] notasDisciplinas = new double[3][4];
 
     void mostrarInfo(){
@@ -36,7 +36,7 @@ public class Aluno {
             return true;
         }
 
-        return false;
+        return false; // mesma coisa q fazer um else e o return dentro
     }
 
     double obterMedia(int indice){

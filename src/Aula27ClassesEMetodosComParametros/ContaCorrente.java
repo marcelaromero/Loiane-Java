@@ -15,14 +15,15 @@ public class ContaCorrente {
     double valorEspecialUsado;
 
     // METODO
-    boolean realizarSaque(double valor){
+    boolean realizarSaque(double valor){ // valor = quantia a sacar
+        // tem saldo na conta
         if (saldo >= valor){
             saldo -= valor;
-            return true;
+            return true; // foi possivel realizar o saque
         }else { // nao tem saldo na conta
             if (especial){
                 // verificar se o limiteEspecial tem saldo
-                double limite = limiteEspecial + saldo;
+                double limite = limiteEspecial + saldo; // aqui eu somo pq se porque - - eu somo e - + eu tiro
                 if (limite >= valor){
                     saldo -= valor;
                     return true;
@@ -30,7 +31,7 @@ public class ContaCorrente {
                     return false;
                 }
             }else {
-                return false; // nao é especial e nao tem saldo suficiente
+                return false; // nao eh especial e nao tem saldo suficiente
             }
         }
     }
