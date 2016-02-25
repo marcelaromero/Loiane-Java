@@ -6,6 +6,6 @@ public class TesteCarroAlt {
 
     public static void main(String[] args){
         Carro carro = new Carro();
-        carro.marca = "Fiat"; // É possivel porque declarei o atributo marca na aula 31 como public
+        carro.marca = "Fiat"; // É possível porque declarei o atributo marca na aula 31 como public
     }
 }
